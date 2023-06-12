@@ -23,8 +23,8 @@ You can add not only fine-grained genres (ex. Gacha Pop, Hyperpop, Alternative R
 1. Rock
 2. R&B
 3. EDM
-4. J-Pop
-5. 
+4. JPOP
+5. J-Pop
 6. 
 7. 
 8. 
