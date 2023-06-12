@@ -20,7 +20,7 @@ Goal - I want contributors to help me list some favorite music genre.
 You can add not only fine-grained genres (ex. Gacha Pop, Hyperpop, Alternative Rock, Progressive Rock), but also coarse-grained genres (ex. Pops, Rock, EDM).
 
 # List of Music Genre.
-1. 
+1. Rock
 2. 
 3. 
 4. 
