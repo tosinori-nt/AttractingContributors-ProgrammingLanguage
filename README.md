@@ -21,7 +21,7 @@ You can add not only fine-grained genres (ex. Gacha Pop, Hyperpop, Alternative R
 
 # List of Music Genre.
 1. Rock
-2. 
+2. EDM
 3. 
 4. 
 5. 
