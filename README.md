@@ -27,6 +27,6 @@ You can add not only fine-grained genres (ex. Gacha Pop, Hyperpop, Alternative R
 5. J-Pop
 6. Rap
 7. Anime song
-8. 
+8. Pop and Anime song
 9. 
 10. 
