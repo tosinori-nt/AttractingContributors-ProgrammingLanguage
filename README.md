@@ -20,7 +20,7 @@ I wanna know what dishes you like.
 
 # List of Dishes
 1.
-2.
+2.Curry and rice
 3.
 4.
 5.
