@@ -19,12 +19,12 @@ To complete the assignment, please do the following:
 I wanna know what dishes you like.
 
 # List of Dishes
-1.
-2.Curry and rice
-3.
+1. steak
+2.Ramen
+3.Curry and rice
 4.
 5.
 6.
-7.
+R.
 8.
 9.
