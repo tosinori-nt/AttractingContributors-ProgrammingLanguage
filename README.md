@@ -21,7 +21,7 @@ I wanna know what dishes you like.
 # List of Dishes
 1. steak
 2.Ramen
-3.
+3.Curry and rice
 4.
 5.
 6.
