@@ -32,3 +32,4 @@ List of Anime.
 *  Rust
 *  C
 *  Swift
+*  Python
