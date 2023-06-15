@@ -19,7 +19,7 @@ To complete the assignment, please do the following:
 I wanna know what dishes you like.
 
 # List of Dishes
-1.
+1. steak
 2.
 3.
 4.
