@@ -23,7 +23,7 @@ I wanna know what dishes you like.
 2. Ramen
 3. Curry and rice
 4. Miso soup
-5. 
+5. rice
 6. 
 7. 
 8. 
