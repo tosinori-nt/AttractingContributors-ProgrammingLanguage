@@ -19,8 +19,8 @@ To complete the assignment, please do the following:
 I wanna know what dishes you like.
 
 # List of Dishes
-1.Ramen
-2.
+1. steak
+2.Ramen
 3.
 4.
 5.
