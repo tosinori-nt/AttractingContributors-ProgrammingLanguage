@@ -28,3 +28,4 @@ I wanna know what dishes you like.
 7. rice
 8. Katsudon
 9. Teriyaki Chicken
+10. hamburger
