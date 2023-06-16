@@ -23,8 +23,8 @@ I wanna know what dishes you like.
 2. Ramen
 3. Curry and rice
 4. Miso soup
-5. Banh Mi
-6. 
+5. Omelet
+6. Banh Mi
 7. 
 8. 
 9. 
