@@ -23,8 +23,8 @@ I wanna know what dishes you like.
 2. Ramen
 3. Curry and rice
 4. Miso soup
-5. Teriyaki Chicken
-6. 
-7. 
-8. 
-9. 
+5. Omelet
+6. Banh Mi
+7. rice
+8. Katsudon
+9. Teriyaki Chicken
