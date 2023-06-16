@@ -25,6 +25,6 @@ I wanna know what dishes you like.
 4. Miso soup
 5. Omelet
 6. Banh Mi
-7. 
+7. rice
 8. 
 9. 
