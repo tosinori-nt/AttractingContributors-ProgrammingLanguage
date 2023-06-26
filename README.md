@@ -33,3 +33,8 @@ List of Anime.
 *  C
 *  Swift
 *  Python
+*  Ruby
+*  Assembly
+*  Python
+*  Go
+*  Kotlin
