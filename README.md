@@ -33,3 +33,4 @@ List of Anime.
 *  C
 *  Swift
 *  Go
+*  Kotlin
