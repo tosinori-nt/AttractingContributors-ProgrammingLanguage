@@ -32,9 +32,9 @@ List of Anime.
 *  Rust
 *  C
 *  Swift
+*  Python
 *  Ruby
 *  Assembly
 *  Python
 *  Go
 *  Kotlin
-
