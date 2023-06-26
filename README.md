@@ -32,6 +32,7 @@ List of Anime.
 *  Rust
 *  C
 *  Swift
+*  Assembly
 *  Python
 *  Go
 *  Kotlin
